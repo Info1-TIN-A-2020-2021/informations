@@ -27,3 +27,7 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |---|---|---|
 |14-09-2020 C | Présentation et introduction |  |
 |14-09-2020 L | labo01 - installation vscode/github/docker (https://classroom.github.com/a/6R84UNKX) |  |
+|15-09-2020 C | Introduction (suite), Thermostat (modèle de données), programme simple |  |
+|22-09-2020 L | labo02 - utilisation Vscode |  |
+|28-09-2020 C | TD20200928 (variable, affichage simple) |  |
+|28-09-2020 L | labo03 - premier programme (https://classroom.github.com/a/_MaV0RAX) |  |
