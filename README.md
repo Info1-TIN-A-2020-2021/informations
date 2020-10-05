@@ -33,3 +33,5 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |28-09-2020 L | labo03 - premier programme (https://classroom.github.com/a/_MaV0RAX) |  |
 |29-09-2020 C | TD20200929 (réels, constants, affichage) |  |
 | | TD20200929b exercice calcul volume d'un cylindre) |  |
+| 05-10-2020 C | choix des types de données et overflow | |
+|05-10-2020 L | labo04 - calculs en virgule flottante (https://classroom.github.com/a/FL9t_mSS) |  |
