@@ -35,3 +35,6 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | | TD20200929b exercice calcul volume d'un cylindre) |  |
 | 05-10-2020 C | choix des types de données et overflow | |
 |05-10-2020 L | labo04 - calculs en virgule flottante (https://classroom.github.com/a/FL9t_mSS) |  |
+| 05-12-2020 C | formats printf-scanf | |
+
+
