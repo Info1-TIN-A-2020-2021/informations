@@ -1,3 +1,12 @@
+# Évaluations
+
+| Date | Activité | Ratio |
+|–--|---|---|
+| 07-12-2020 | Test écrit #1 | 12.5% |
+| 18-01-2021 | Test écrit #2 | 12.5% |
+|   | 3 labos test | 25% |
+|   | Examen | 50% |
+
 # Informations générales pour le cours
 
 Le polycopié du cours est disponible sur https://heig-tin-info.github.io/handout/.
