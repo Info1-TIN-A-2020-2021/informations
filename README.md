@@ -47,6 +47,8 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |06-10-2020 L | labo05 - calculs de prix (https://classroom.github.com/a/UQCrQ0FQ) |  |
 |12-10-2020 C | formats printf-scanf | |
 |12-10-2020 L | labo05 - suite et fin | |
-|13-10-2020 C | scanf et adresse des variables en mémoire, sscanf |
-
+|13-10-2020 C | scanf et adresse des variables en mémoire, sscanf| |
+|26-10-2020 C | structure de contrôle if/else | |
+|26-10-2020 L | labo06 | |
+|27-10-2020 L | labo06 - suite et fin | |
 
