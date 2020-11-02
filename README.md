@@ -51,4 +51,6 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |26-10-2020 C | structure de contrôle if/else  et switch/case | |
 |26-10-2020 L | labo06 - roue et pneu (https://classroom.github.com/a/UuKSeOws)| |
 |27-10-2020 L | labo06 - suite et fin | |
+|02-11-2020 C | switch/case, op ternaire, boucle while | |
+|02-11-2020 L | labo07 - calculs financiers (https://classroom.github.com/a/ZCbmQi1X) | |
 
