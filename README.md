@@ -55,3 +55,5 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |02-11-2020 L | labo07 - calculs financiers (https://classroom.github.com/a/ZCbmQi1X) | |
 |03-11-2020 C | TD20201103 boucle - approximation de pi | |
 || TD20201103b boucle - saisie contrôlée | |
+|09-11-2020 C | TD202011009 break/continue/goto + exercices boucles | |
+|09-11-2020 L | labo08 - outils mathématiques () | |
