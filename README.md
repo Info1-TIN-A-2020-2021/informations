@@ -53,4 +53,5 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |27-10-2020 L | labo06 - suite et fin | |
 |02-11-2020 C | switch/case, op ternaire, boucle while | |
 |02-11-2020 L | labo07 - calculs financiers (https://classroom.github.com/a/ZCbmQi1X) | |
-
+|03-11-2020 C | TD20201103 - boucle - approximation de pi | |
+|| TD20201103b - boucle - saisie contrôlée | |
