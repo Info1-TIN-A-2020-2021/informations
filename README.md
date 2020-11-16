@@ -59,4 +59,4 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | | TD20201109b comptage caractères saisis au clavier | |
 |09-11-2020 L | labo08 - outils mathématiques (https://classroom.github.com/a/zkehFvyu) | |
 |16-11-2020 C | TD20201116 tableaux | |
-|16-11-2020 L | labo09 - boucles simples () | |
+|16-11-2020 L | labo09 - boucles simples (https://classroom.github.com/a/h_TbJuno) | |
