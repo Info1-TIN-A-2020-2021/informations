@@ -64,4 +64,5 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |23-11-2020 C | TD20201117 exercices tableaux et algos min, mean | |
 | | TD20201123 exercice jardinage tableau | |
 | | TD20201123b exercice à faire : init tableau 2D et mean | |
+|23-11-2020 L | labo10- boucles imbriquées (https://classroom.github.com/a/_2RGnDzg) | |
 
