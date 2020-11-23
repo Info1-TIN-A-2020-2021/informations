@@ -60,4 +60,8 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |09-11-2020 L | labo08 - outils mathématiques (https://classroom.github.com/a/zkehFvyu) | |
 |16-11-2020 C | TD20201116 tableaux | |
 |16-11-2020 L | labo09 - boucles simples (https://classroom.github.com/a/h_TbJuno) | |
-|17-11-2020 C | TD20201117 tableaux et algorithmie | |
+|17-11-2020 C | TD20201117 tableaux et algorithmie max | |
+|23-11-2020 C | TD20201117 exercices tableaux et algos min, mean | |
+| | TD20201123 exercice jardinage tableau | |
+| | TD20201123b exercice à faire : init tableau 2D et mean | |
+
