@@ -67,4 +67,4 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |23-11-2020 L | labo10 - boucles imbriquées (https://classroom.github.com/a/_2RGnDzg) | |
 | 30-11-2020 C |  analyse labo10 - fonction racine_cubique| 
 | 30-11-2020 L |  labo11 - Traitement de texte (https://classroom.github.com/a/Ba3DakA2) | 
-
+| 01-12-2020 C | exercice sur les fonctions et utilisation du debug |
