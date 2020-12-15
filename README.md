@@ -72,5 +72,5 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 07-12-2020 L |  labo11 - suite et fin | 
 | 08-12-2020 C | TE1 | 
 | 14-12-2020 C | fin exercice du 7.12 et exercice fonction et passage par adresse |
-| 14-12-2020 L | labo12 |
+| 14-12-2020 L | labo12 - MonteCarlo π (https://classroom.github.com/a/x_sZd9MZ) |
 | 15-12-2020 L | correction TE1, labo12 - suite et fin |
