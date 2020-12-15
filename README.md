@@ -70,6 +70,7 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 01-12-2020 C | exercice sur les fonctions et utilisation du debug |
 | 07-12-2020 C |  utilisation du debug et exercice matrice de rotation |
 | 07-12-2020 L |  labo11 - suite et fin | 
+| 08-12-2020 C | TE1 | 
 | 14-12-2020 C | fin exercice du 7.12 et exercice fonction et passage par adresse |
 | 14-12-2020 L | labo12 |
-| 15-12-2020 L | labo12 - suite et fin |
+| 15-12-2020 L | correction TE1, labo12 - suite et fin |
