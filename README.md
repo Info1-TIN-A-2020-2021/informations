@@ -74,3 +74,6 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 14-12-2020 C | fin exercice du 7.12 et exercice fonction et passage par adresse |
 | 14-12-2020 L | labo12 - MonteCarlo π (https://classroom.github.com/a/x_sZd9MZ) |
 | 15-12-2020 L | correction TE1, labo12 - suite et fin |
+| 04-01-2021 C | fonction et passage par valeur et par adresse, tri d'un tableau |
+| 04-01-2021 L | labo13 - C18H34O2 et H2O  (https://classroom.github.com/a/jbRUsUC6)|
+
