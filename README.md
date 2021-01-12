@@ -77,4 +77,5 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 04-01-2021 C | fonction et passage par valeur et par adresse, tri d'un tableau |
 | 04-01-2021 L | labo13 - C18H34O2 et H2O  (https://classroom.github.com/a/jbRUsUC6)|
 | 05-01-2021 L | labo13 - C18H34O2 et H2O - suite et fin |
+| 11-01-2021 C | TD20200111 - tableaux 2D |
 
